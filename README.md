@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **akshat2004july@gmail.com**
 
+- 💬 Ask me about **DSA ,Machine Learning**
+
 - ⚡ Fun fact **Learning is fun**
 
 ### Blogs posts
